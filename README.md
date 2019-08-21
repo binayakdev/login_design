@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ### Screenshot:
-![alt text](https://raw.githubusercontent.com/binayakdev/login_design/screenshot/Screen_capture_1.png)
+![alt text](https://www.github.com/binayakdev/login_design/screenshot/Screen_capture_1.png)
